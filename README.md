@@ -6,11 +6,15 @@
 
  
 [<img align="left" alt="omkarsahane" width="33px" src="likedin.png" />][linkedin]
-[<img align="left" alt="omkarsahane" width="33px" src="insta.png" />][instagram]
-[<img align="left" alt="omkarsahane" width="33px" src="twt.png" />][linkedin]
-[<img align="left" alt="omkarsahane" width="33px" src="mail.png" />][linkedin]
+[<img align="left" alt="omkarsahane" width="33px" src="download.png" />][instagram]
+[<img align="left" alt="omkarsahane" width="33px" src="twt.png" />][twt]
+[<img align="left" alt="omkarsahane" width="33px" src="mail.png" />][mail]
 
 [linkedin]: https://www.linkedin.com/in/omkar-sahane-7452691b2
+[instagram]: https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy
+[twt]: https://twitter.com/Omkarsahane5?s=09
+[mail]: mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
+
 
 <img width="50" hight="50" src="https://github.com/omkar-s2/OmkarSahane-/blob/main/download.png">[insta](https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy "CLICK")
 
