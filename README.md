@@ -15,13 +15,7 @@
 [twt]: https://twitter.com/Omkarsahane5?s=09
 [mail]: mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
 
-
-<img width="50" hight="50" src="https://github.com/omkar-s2/OmkarSahane-/blob/main/download.png">[insta](https://instagram.com/omkar_sahane_?igshid=z91jvrcb9vwy "CLICK")
-
-<img width="50" hight="50" src="https://github.com/omkar-s2/OmkarSahane-/blob/main/twt.png">[twitter](https://twitter.com/Omkarsahane5?s=09 "CLICK")<br>
-
-<img width="50" hight="50" src="https://github.com/omkar-s2/OmkarSahane-/blob/main/mail.png">[omkarsahane121](mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
+<br /> 
 -- --
 * The website is under construction 🚧
 -- --
