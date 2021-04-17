@@ -5,7 +5,7 @@
  ___I'm Omkar Sahane___
 
  
-[<img align="left" alt="omkarsahane" width="22px" src="likedin.png" />][linkedin]
+[<img align="left" alt="omkarsahane" width="33px" src="likedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/omkar-sahane-7452691b2
 
