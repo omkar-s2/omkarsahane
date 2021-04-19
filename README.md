@@ -3,7 +3,6 @@
 <img width="200" alt="portfolio_view" src="DSC_0021-01.jpeg">
   
  ___I'm Omkar Sahane___
-<br />
 
  #### Connect with me:
  <br />
