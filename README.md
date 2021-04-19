@@ -33,10 +33,10 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-profile-omkar-s2.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=9db8973624604039)
+[<img src="https://now-playing-profile-git-master-omkar-s2.vercel.app
+" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=9db8973624604039)
 
 
-[![Spotify](https://now-playing-profile-omkar-s2.vercel.app/api/spotify-playing)](https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=9db8973624604039)
 <br />
 
 -- --
