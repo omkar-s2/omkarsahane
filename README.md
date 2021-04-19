@@ -6,6 +6,8 @@
 <br />
 
  #### Connect with me:
+ <br />
+ 
 [<img align="left" alt="omkarsahane" width="33px" src="likedin.png" />][linkedin]
 [<img align="left" alt="omkarsahane" width="33px" src="download.png" />][instagram]
 [<img align="left" alt="omkarsahane" width="33px" src="twt.png" />][twt]
