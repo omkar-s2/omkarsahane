@@ -33,11 +33,10 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://now-playing-profile-7mzul8hq1-omkar-s2.vercel.app" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=9db8973624604039)
+[<img src="https://https://now-playing-profile-7mzul8hq1-omkar-s2.vercel.app" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/91pz5c0ljj9ivx0rk1r3430jb?si=OXHmTT22Q022F0CLS2mCGw&utm_source=copy-link)
 
 
 <br />
-
 -- --
 * The website is under construction 🚧
 -- --
