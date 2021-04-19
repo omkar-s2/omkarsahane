@@ -18,6 +18,8 @@
 [mail]: mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
 [facebook]: https://www.facebook.com/omkar.sahane.98
 
+<br />
+
 ### PLAYLIST
 
 [<img align="left" alt="omkarsahane" width="33px" src="spotify.png" />][spotify]
