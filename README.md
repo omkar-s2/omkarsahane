@@ -1,6 +1,9 @@
 
 # WELCOME TO MY BIO
 <img width="200" alt="portfolio_view" src="DSC_0021-01.jpeg">
+
+ ___I'm Omkar Sahane___
+
    <br />
  
 [<img align="left" alt="omkarsahane" width="33px" src="likedin.png" />][linkedin]
@@ -14,10 +17,6 @@
 [twt]: https://twitter.com/Omkarsahane5?s=09
 [mail]: mailto:omkarsahane121@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
 [facebook]: https://www.facebook.com/omkar.sahane.98
-
- ___I'm Omkar Sahane___
-
-
 
 ### PLAYLIST
 
