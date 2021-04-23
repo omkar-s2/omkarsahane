@@ -4,7 +4,6 @@
 
  ___I'm Omkar Sahane___
 
-   <br />
 
 ### connect with me:
 
